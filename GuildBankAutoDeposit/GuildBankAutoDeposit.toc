@@ -2,7 +2,7 @@
 ## Title: Guild Bank Auto Deposit
 ## Notes: 길드은행 창을 열면 제작재료를 자동으로 지정된 칸에 입고합니다.
 ## Author: 아무개
-## Version: 1.0.0
+## Version: 1.0
 ## SavedVariablesPerCharacter: GuildBankAutoDepositDB
 
 Core.lua
