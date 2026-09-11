@@ -2,7 +2,7 @@
 ## Title: |cff33ccff한밤 주간활동 체크|r
 ## Notes: 접속 시 룬석 방어 / 스토마리온 공격 / 하라니르의 전설 완료 여부를 채팅창에 알려줍니다.
 ## Author: You
-## Version: 1.0.0
+## Version: 1.0
 ## IconTexture: Interface\Icons\INV_Misc_QuestionMark
 
 WorldWeeklyReminder.lua
