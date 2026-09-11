@@ -1,0 +1,11 @@
+## Interface: 120100
+## Title: |cff00ff00Gold World Quests|r
+## Notes: 로그인 시 골드 보상 전역 퀘스트를 채팅창에 알려줍니다.
+## Notes-koKR: 로그인 시 골드 보상 전역 퀘스트를 채팅창에 알려줍니다.
+## Author: You
+## Version: 1.0
+## IconTexture: Interface\Icons\INV_Misc_Coin_01
+## X-Curse-Project-ID:
+## SavedVariables: GoldWorldQuestsDB
+
+GoldWorldQuests.lua

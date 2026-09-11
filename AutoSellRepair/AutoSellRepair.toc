@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: AutoSellRepair
+## Notes: 회색템 자동 판매 + 자동 수리
+## Author: YourName
+## Version: 1.0
+## SavedVariables: AutoSellRepairDB
+
+AutoSellRepair.lua
